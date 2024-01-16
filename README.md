@@ -1,6 +1,6 @@
-# How strong is your LinkedIn Network - Find out with this quick tool 🚀
+# How strong is your LinkedIn Network - Find out with this quick tool 🚀\
 
-
+[![Crowdin Action](https://github.com/wbashir/my-network/actions/workflows/crowdin.yml/badge.svg)](https://github.com/wbashir/my-network/actions/workflows/crowdin.yml)
 ### Requirements
 
 - Node.js 18+ and npm
@@ -10,8 +10,8 @@
 Run the following command on your local environment:
 
 ```shell
-git clone --depth=1 https://github.com/ixartz/Next-js-Boilerplate.git my-project-name
-cd my-project-name
+git clone my-network
+cd 
 npm install
 ```
 
