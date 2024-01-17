@@ -1,4 +1,5 @@
-# How strong is your LinkedIn Network - Find out with this quick tool 🚀\
+# How strong is your LinkedIn Network - Find out with this quick tool 🚀
+A tool to analyze and improve your networking strength on LinkedIn
 
 [![Crowdin Action](https://github.com/wbashir/my-network/actions/workflows/crowdin.yml/badge.svg)](https://github.com/wbashir/my-network/actions/workflows/crowdin.yml)
 ### Requirements
@@ -7,19 +8,12 @@
 
 ### Getting started
 
-Run the following command on your local environment:
-
-```shell
-git clone my-network
-cd 
-npm install
-```
-
-Then, you can run locally in development mode with live reload:
-
-```shell
-npm run dev
-```
+## Authenticate with LinkedIn
+Follow the instructions below to authenticate with LinkedIn and grant access to your profile data:
+Click on the "Authenticate with LinkedIn" button above.
+You will be redirected to the LinkedIn authentication page.
+Follow the on-screen instructions to authenticate.
+Grant access to your profile data
 
 Open http://localhost:3000 with your favorite browser to see your project.
 
